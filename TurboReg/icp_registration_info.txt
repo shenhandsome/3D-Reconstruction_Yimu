@@ -1,0 +1,12 @@
+=== ICP点云配准结果信息 ===
+源点云文件: /home/shen/sjw/TurboReg/tie34.ply
+目标点云文件: /home/shen/normalflow/normalflow-master/examples/data/tie4.ply
+源点云点数: 16380
+目标点云点数: 12971
+使用的体素大小: 0.000106
+全局配准方法: RANSAC基于FPFH特征匹配
+精细配准方法: Point-to-Point (步骤1)
+最终fitness: 0.623103
+最终inlier_rmse: 0.000089
+全局配准用时: 0.214 秒
+ICP配准用时: 0.028 秒
