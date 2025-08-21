@@ -4,7 +4,9 @@
 
 1.rgbtopoint.py是realsense采集的图像转为点云的代码  
 
-  #在原来环境基础上需要安装pip install open3d pyrealsense2 matplotlib  
+  #在原来环境基础上需要安装  
+  
+  pip install open3d pyrealsense2 matplotlib  
   
 2.test_tracking_init.py为normalflow官方代码  
 
