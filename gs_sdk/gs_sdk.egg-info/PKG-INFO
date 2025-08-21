@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: gs_sdk
+Version: 0.1.0
+Summary: SDK for GelSight sensors usage, reconstruction, and calibration.
+Author: Hung-Jui Huang, Ruihan Gao
+Author-email: hungjuih@andrew.cmu.edu, ruihang@andrew.cmu.edu
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+License-File: LICENSE.txt
+Requires-Dist: pillow==10.0.0
+Requires-Dist: numpy==1.26.4
+Requires-Dist: opencv-python>=4.9.0
+Requires-Dist: scipy>=1.13.1
+Requires-Dist: torch>=2.1.0
+Requires-Dist: PyYaml>=6.0.1
+Requires-Dist: matplotlib>=3.9.0
+Requires-Dist: ffmpeg-python
+Requires-Dist: nanogui
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

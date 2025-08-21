@@ -1,0 +1,6 @@
+[console_scripts]
+collect_data = calibration.collect_data:collect_data
+label_data = calibration.label_data:label_data
+prepare_data = calibration.prepare_data:prepare_data
+test_model = calibration.test_model:test_model
+train_model = calibration.train_model:train_model
