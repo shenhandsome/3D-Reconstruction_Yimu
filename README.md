@@ -1,5 +1,5 @@
 # 3D-Reconstruction_Yimu
-#gs_sdk  
+## gs_sdk  
 
 (1)进行采集   
 
@@ -9,7 +9,7 @@
     
 (2)其中fast_stream_device.py加入了视频写入器，可以采取视频流数据，图像直接通过可视化界面进行采集  
 
-#normalflow(https://joehjhuang.github.io/normalflow/ ICRA 2025)  
+## normalflow(https://joehjhuang.github.io/normalflow/ ICRA 2025)  
 
 (1)rgbtopoint.py是realsense采集的图像转为点云的代码  
 
@@ -31,7 +31,7 @@
 
 (9)其余安装环境参考本代码的文件的readme.md,2-8的代码是在examples文件下  
 
-#TurboReg（https://github.com/Laka-3DV/TurboReg ICCV 2025）  
+## TurboReg（https://github.com/Laka-3DV/TurboReg ICCV 2025）  
 
 ####该代码文件主要用于点云配准。####  
 
@@ -43,7 +43,7 @@
 
 (4)安装环境参考README.md  
 
-#MiniGPT-3D(https://tangyuan96.github.io/minigpt_3d_project_page/ ACM MM 2024)  
+## MiniGPT-3D(https://tangyuan96.github.io/minigpt_3d_project_page/ ACM MM 2024)  
 
 详情见该项目README.md  
 
