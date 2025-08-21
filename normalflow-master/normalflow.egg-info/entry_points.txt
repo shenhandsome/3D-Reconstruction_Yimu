@@ -1,0 +1,3 @@
+[console_scripts]
+realtime_object_tracking = demos.realtime_object_tracking:realtime_object_tracking
+test_tracking = examples.test_tracking:test_tracking
