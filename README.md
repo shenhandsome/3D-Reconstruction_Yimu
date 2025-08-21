@@ -41,7 +41,7 @@
 
 (3)demo_py/multi_pointcloud_registration.py为多个ply配准代码，在2的基础上，可以选择依次配准还是同时配准到第一个ply中  
 
-(4)安装环境参考README.md  
+(4)安装环境参考reademe.md  
 
 ## MiniGPT-3D(https://tangyuan96.github.io/minigpt_3d_project_page/ ACM MM 2024)  
 
