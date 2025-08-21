@@ -30,5 +30,5 @@
 
 8.test_tracking.py包含了上述代码的基础上，还有基于normalflow进行点云拼接，高度图直接转点云以及真实机械臂位姿进行点云拼接相关代码  
 
-9.其余安装环境参考本代码的文件的README.md，2-8的代码是在examples文件下  
+9.其余安装环境参考本代码的文件的reademe.md，2-8的代码是在examples文件下  
 
